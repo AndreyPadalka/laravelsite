@@ -5,7 +5,7 @@ git remote add origin https://github.com/AndreyPadalka/laravelsite.git
 git remote
 
 git add .
-git commit -m "08.02.2022"
+git commit -m "07.02.2022"
 git push -u origin master
 
 git clone
